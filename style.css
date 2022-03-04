@@ -1,0 +1,16 @@
+body{
+    background-color: #ede4e4;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+}
+.container{
+    max-width: 400px;
+}
+
+.weather-icon{
+    position: relative;
+    border-radius: 50%;
+    width: 100px;
+    background-color:#ede4e4 ;
+    margin-top: -50px;
+}
